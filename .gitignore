@@ -1,0 +1,14 @@
+# Ignore everything
+*
+
+# Allow directories
+!*/
+
+# Allow specific files
+!*.cpp
+!*.md
+!.gitignore
+
+# Ignore temp/editor files
+.vscode/
+**/tempCodeRunnerFile.*
