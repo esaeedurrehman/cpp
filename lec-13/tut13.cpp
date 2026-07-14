@@ -1,0 +1,40 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+
+// Array Example
+int marks[] = {23,45,56,89};
+int mathmarks[4];
+mathmarks[0]=2278;
+mathmarks[1]=378;
+mathmarks[2]=478;
+mathmarks[3]=578;
+
+cout<< "these are math marks"<<endl;
+cout<<mathmarks[0]<<endl;
+cout<<mathmarks[1]<<endl;
+cout<<mathmarks[2]<<endl;
+cout<<mathmarks[3]<<endl;
+
+// You can change the value of an array
+marks[2]=455;
+cout <<"these are marks"<< endl;
+// cout<<marks[0]<<endl;
+// cout<<marks[1]<<endl;
+// cout<<marks[2]<<endl;
+// cout<<marks[3]<<endl;
+
+
+for (int i = 0; i < 4; i++)
+{
+   cout<<"The value of marks " << i<<" is " << marks[i]<<endl;
+}
+
+// quick quiz: do thw same using while and do-while loops?
+
+// Pointer and arrays
+int *p
+
+return 0;
+}
