@@ -33,8 +33,8 @@ for (int i = 0; i < 4; i++)
 
 // quick quiz: do thw same using while and do-while loops?
 
-// Pointer and arrays
-int *p
+// // Pointer and arrays
+// int *p
 
 return 0;
 }
